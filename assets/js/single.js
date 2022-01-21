@@ -57,4 +57,4 @@ var displayIssues = function(issues) {
     }
 };
 
-getRepoIssues("facebook/react");
+getRepoIssues();
